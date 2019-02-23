@@ -1,0 +1,7 @@
+Start at (245, 161)
+Go North 5 blocks
+Turn right
+Go until you reach landmark "Statue of Old Man with Large Hat"
+Go West 25 blocks
+Turn left
+Go 3 blocks
